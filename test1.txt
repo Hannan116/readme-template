@@ -1,6 +1,11 @@
 this is text1 --original file 
  i have changed it from local repo 
 i have changed it again s
+<<<<<<< HEAD
 now i am changingg in remote repo 
 now i am changing creating branch in local repo 
 changes from local repo and push pull from terminal 
+=======
+now i am changingg in remote repo from branching edit 
+
+>>>>>>> 5cdc15aedae63d5401d405b6b80eec6821f2d424
